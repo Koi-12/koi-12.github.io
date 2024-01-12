@@ -216,14 +216,14 @@
    * Initiate portfolio lightbox 
    */
   const portfolioLightbox = GLightbox({
-    selector: '.portfolio-lightbox'
+    selector: '.portfolio-lightbox, .portfolio-lightbox1'
   });
 
   /**
    * Initiate portfolio details lightbox 
    */
   const portfolioDetailsLightbox = GLightbox({
-    selector: '.portfolio-details-lightbox',
+    selector: '.portfolio-details-lightbox, .portfolio-details1-lightbox',
     width: '90%',
     height: '90vh'
   });
@@ -231,7 +231,7 @@
   /**
    * Portfolio details slider
    */
-  new Swiper('.portfolio-details-slider', {
+  new Swiper('.portfolio-details-slider, .portfolio-details1-slider', {
     speed: 400,
     loop: true,
     autoplay: {
