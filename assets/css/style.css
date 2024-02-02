@@ -15,7 +15,7 @@
 }
 @font-face {
   font-family: 'Mom';
-  src: url('/Portfolio/assets/css/Mom.ttf') format('truetype');
+  src: url('../css/Mom.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Right';
