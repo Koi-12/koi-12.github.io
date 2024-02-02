@@ -11,19 +11,19 @@
 --------------------------------------------------------------*/
 @font-face {
   font-family: 'Remington';
-  src: url('../fonts/Remington-Noiseless.ttf') format('truetype');
+  src: url('../Fonts/Remington-Noiseless.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Mom';
-  src: url('../fonts/Mom.ttf') format('truetype');
+  src: url('../Fonts/Mom.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Right';
-  src: url('../fonts/Right\ Chalk.ttf') format('truetype');
+  src: url('../Fonts/ Chalk.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Mindwalk';
-  src: url('../fonts/Mindwalk\ Regular.otf') format('truetype');
+  src: url('../Fonts/Mindwalk\ Regular.otf') format('truetype');
 }
 
 * {
