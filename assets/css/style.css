@@ -9,13 +9,15 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
 @font-face {
   font-family: 'Remington';
   src: url('../Fonts/Remington-Noiseless.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Mom';
-  src: url('../Fonts/FreekyTypewriter.ttf') format('truetype');
+  src: url('../Fonts/SpecialElite-Regular.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Right';
