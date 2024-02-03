@@ -478,7 +478,7 @@ section .container {
   /* font-weight: 700; */
   font-size: 30px;
   color: #CDA67A;
-  font-family: 'Special Elite';
+  font-family: 'Special Elite', system-ui;
   margin-bottom: 2%;
 }
 .about-me .content p {
@@ -529,7 +529,7 @@ section .container {
 
 .counts .count-box h3 {
   margin-top: 15px;
-  font-family: 'Special Elite';
+  font-family: 'Special Elite' , system-ui;
 }
 
 .counts .count-box i {
@@ -722,7 +722,7 @@ section .container {
 }
 
 .resume .section-title p span{
-  font-family: 'Special Elite';
+  font-family: 'Special Elite', system-ui;
   background-image:linear-gradient(90deg, rgba(205,166,122,1) 0%, rgba(238,206,170,1) 100%);
   color: transparent;
   -webkit-background-clip: text;
@@ -877,7 +877,7 @@ section .container {
 }
 
 .portfolio .section-title p span{
-  font-family: 'Special Elite';
+  font-family: 'Special Elite' , system-ui;
   background-image:linear-gradient(90deg, rgba(205,166,122,1) 0%, rgba(238,206,170,1) 100%);
   color: transparent;
   -webkit-background-clip: text;
@@ -1169,7 +1169,7 @@ section .container {
 
 #contact .container .section-title h2 {
   margin: -15px 0 15px 0;
-  font-family: 'Special Elite';
+  font-family: 'Special Elite', system-ui;
   background-image:linear-gradient(90deg, rgba(205,166,122,1) 0%, rgba(238,206,170,1) 100%);
   color: transparent;
   -webkit-background-clip: text;
